@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/double-silverfish-spawner-finder-logo.webp" alt="Close silverfish spawner finder logo" style="width:25%; image-rendering: pixelated;" onerror="this.style.display='none';">
+  <img src="assets/double-silverfish-spawner-finder-logo.webp" alt="Double silverfish spawner finder logo" style="width:25%; image-rendering: pixelated;" onerror="this.style.display='none';">
   <h1>[WIP] Double silverfish spawner finder</h1>
 </div>
 
@@ -8,6 +8,9 @@
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.md)
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.ru.md)
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KK-mp4/double-silverfish-spawner-finder)
+
+> [!NOTE]
+> Main language of this repository is English, if you are able to read it, it is recommended to read original [README](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.md).
 
 ## Introduction
 

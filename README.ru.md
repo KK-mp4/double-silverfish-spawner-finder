@@ -3,7 +3,7 @@
   <h1>[WIP] Поиск двойных спавнеров чешуйниц</h1>
 </div>
 
-## Консольное C++-приложение для поиска сидов Minecraft Java Edition с двумя спавнерами чешуйниц
+## Консольное C++ приложение для поиска сидов Minecraft Java Edition с двумя спавнерами чешуйниц
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.md)
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.ru.md)
