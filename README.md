@@ -9,9 +9,6 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.ru.md)
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KK-mp4/double-silverfish-spawner-finder)
 
-> [!NOTE]
-> Main language of this repository is English, if you are able to read it, it is recommended to read original [README](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.md).
-
 ## Introduction
 
 I have [a concept for a silverfish-based quarry](https://youtu.be/gz_HdqsPPS4) that would leave behind itself only ores and other stone types. A lot of work needs to be done still but what is clear is that I do need a way to quickly build a 1 high floor of infested stone blocks using [glowsquid's 4 game tick floor placer](https://youtu.be/aA4V4Ws8_ig). Thus as a side quest I'd like to find 2 nearby silverfish spawners so that with 1 players we could still get x2 speed.

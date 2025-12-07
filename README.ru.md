@@ -9,6 +9,9 @@
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.ru.md)
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KK-mp4/double-silverfish-spawner-finder)
 
+> [!NOTE]
+> Main language of this repository is English, if you are able to read it, it is recommended to read original [README](https://github.com/KK-mp4/double-silverfish-spawner-finder/blob/master/README.md).
+
 ## Введение
 
 У меня есть [концепт карьера на чешуйницах](https://youtu.be/gz_HdqsPPS4), который оставляет после себя только руды и другие виды камня. Работы ещё много, но уже ясно, что мне нужен способ быстро создавать слой высотой в 1 блок из заражённого камня с помощью [4 gt укладчика пола от glowsquid](https://youtu.be/aA4V4Ws8_ig). Поэтому я хочу найти два расположенных рядом спавнера чешуйниц для двойной скорости.
