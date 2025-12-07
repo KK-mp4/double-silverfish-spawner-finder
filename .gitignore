@@ -1,0 +1,14 @@
+# IDE
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Compiled code
+build
+
+# Logs
+logs
+
+# Misc
+drafts/*
+!drafts/.gitkeep

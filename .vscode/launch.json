@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "configurations": [
+    {
+      "name": "(MSVC) Close silverfish spawner finder",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${command:cmake.launchTargetPath}",
+      "args": ["0"],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "externalTerminal"
+    }
+  ]
+}
